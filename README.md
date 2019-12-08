@@ -6,3 +6,4 @@
 
 ###### Reference  
 1. day02 [使用 itchat 打造微信聊天机器人](https://mp.weixin.qq.com/s/7vs0XlwMGlGshYiEypwG1A)  
+1. [用 Python 玩微信](https://github.com/youfou/wxpy)  
