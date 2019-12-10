@@ -8,7 +8,7 @@
             "name": "Python: Learning",
             "type": "python",
             "request": "launch",
-            "pythonPath": "C:\\Python\\Python38\\python",
+            "pythonPath": "/usr/bin/python3",
             "program": "${file}"
         }
     ]
